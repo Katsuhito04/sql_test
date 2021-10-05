@@ -1,6 +1,8 @@
 SELECT
-    *
+test1,
+test2
 from
-    aaaa
+aaaa
 where
-    test = 1;
+test1 = 1
+order by 1 desc;
