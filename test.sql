@@ -1,6 +1,4 @@
-SELECT
-test1,
-test2
+SELECT test1,test2
 from
 aaaa
 where
