@@ -1,6 +1,3 @@
-SELECT
-    *
-from
-    aaaa
-where
-    test = 1;
+SELECT test, test2
+from aaaa
+where test = 1;
